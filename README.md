@@ -1,4 +1,4 @@
-Docker Output Infomation Refined
+Docker Output Information Refined
 =================================
 
 ### Compile and Run
