@@ -16,4 +16,4 @@ $> suoo ./list
 
 ### License
 
-Created by and copyright GitHub, Inc. Released under the MIT license.
+Created by and copyright Carter Tsai. Released under the MIT license.
