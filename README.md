@@ -10,7 +10,7 @@ $> sudo go run list.go
 
 ```
 $> sudo go build list.go
-$> suoo ./list
+$> sudo ./list
 ```
 
 
